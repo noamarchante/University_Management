@@ -1,4 +1,4 @@
-# Cinquillo_Oro
+# University_Management
 
 The project was developed in the subject "Interfaces de Usuario" in the 
 Computer Engineering Degree of the University of Vigo in 
