@@ -1,0 +1,193 @@
+{
+    "USUARIOS":{
+        "es":"USUARIOS",
+        "en":"USERS",
+        "gl":"USUARIOS" 
+    },
+    "PROFESORES":{
+        "es":"PROFESORES",
+        "en":"TEACHERS",
+        "gl":"PROFESORES"
+    },
+    "EDIFICIOS":{
+        "es":"EDIFICIOS",
+        "en":"BUILDINGS",
+        "gl":"EDIFICIOS"
+    },
+    "CENTROS":{
+        "es":"CENTROS",
+        "en":"CENTERS",
+        "gl":"CENTROS"
+    },
+    "TITULACIONES":{
+        "es":"TITULACIONES",
+        "en":"DEGREES",
+        "gl":"TITULACIÓNS"
+    },
+    "ESPACIOS":{
+        "es":"ESPACIOS",
+        "en":"SPACES",
+        "gl":"ESPAZOS"
+    },
+    "PROFESOR_ESPACIO":{
+        "es":"PROFESOR_ESPACIO",
+        "en":"TEACHER_SPACE",
+        "gl":"PROFESOR_ESPAZO"
+    },
+    "PROFESOR_TITULACION":{
+        "es":"PROFESOR_TITULACIÓN",
+        "en":"TEACHER_DEGREE",
+        "gl":"PROFESOR_TITULACIÓN"
+    },
+    "Hoy es":{
+        "es":"Hoy es ",
+        "en":"Today is ",
+        "gl":"Hoxe é "
+    },
+    "Ejemplo arquitectura IU":{
+        "es":"Ejemplo arquitectura IU",
+        "en":"IU architecture example",
+        "gl":"Exemplo arquitectura IU"
+    },
+    "Gestion de la universidad":{
+        "es":"Gestión de la universidad",
+        "en":"University management",
+        "gl":"Xestión da universidade"
+    },
+    "Portal de Gestion":{
+        "es":"Portal de gestión",
+        "en":"Management website",
+        "gl":"Portal de xestión"
+    },
+    "idioma":{
+        "es":"Idioma",
+        "en":"Languague",
+        "gl":"Idioma"
+    },
+    "Usuarios":{
+        "es":"Usuarios",
+        "en":"Users",
+        "gl":"Usuarios"
+    },
+    "Edificios":{
+        "es":"Edificios",
+        "en":"Buildings",
+        "gl":"Edificos"
+    }, 
+    "Espacios":{
+        "es":"Espacios",
+        "en":"Spaces",
+        "gl":"Espazos"
+    },
+    "Funcionalidades":{
+        "es":"Funcionalidades",
+        "en":"Functionalities",
+        "gl":"Funcionalidades"
+    },
+    "Centros":{
+        "es":"Centros",
+        "en":"Centers",
+        "gl":"Centros"
+    },
+    "Titulacion":{
+        "es":"Titulaciones",
+        "en":"Degrees",
+        "gl":"Titulacións"
+    },
+    "Profesores":{
+        "es":"Profesores",
+        "en":"Teachers",
+        "gl":"Profesores"
+    },
+    "INGLES":{
+        "es":"Inglés",
+        "en":"English",
+        "gl":"Inglés"
+    },
+    "ESPAÑOL":{
+        "es":"Español",
+        "en":"Spanish",
+        "gl":"Español"
+    },
+    "GALLEGO":{
+        "es":"Gallego",
+        "en":"Gallaecian",
+        "gl":"Galego"
+    },
+    "login":{
+        "es":"Usuario",
+        "en":"User",
+        "gl":"Usuario"
+    },
+    "Inicio sesion":{
+        "es":"Inicio sesión",
+        "en":"Login",
+        "gl":"Inicio sesión"
+    },
+    "Autor":{
+        "es":"Autor",
+        "en":"Author",
+        "gl":"Autor"
+    },
+    "Usuario no autenticado":{
+        "es":"Usuario no autenticado",
+        "en":"User not logged",
+        "gl":"Usuario non autenticado"
+    },
+    "Portal de gestion que permite almacenar y consultar informacion":{
+        "es":"Portal de gestión que permite almacenar y consultar información",
+        "en":"Management site that allows storing and consulting information",
+        "gl":"Portal de xestión que permite almacenar e consultar información"
+    },
+    "Completos formularios que permiten almacenar toda la informacion necesaria sobre las entidades":{
+        "es":"Completos formularios que permiten almacenar toda la información necesaria sobre las entidades",
+        "en":"Complete forms that allow you to store all the necessary information about the entities",
+        "gl":"Completos formularios que permiten almacenar toda a información necesaria sobre as entidades"
+    },
+    "Formularios":{
+        "es":"Formularios",
+        "en":"Forms",
+        "gl":"Formularios"
+    },
+    "Entidades":{
+        "es":"Entidades",
+        "en":"Entities",
+        "gl":"Entidades"
+    },
+    "Registrar":{
+        "es":"Registrar",
+        "en":"Register",
+        "gl":"Registrar"
+    },
+    "Login":{
+        "es":"Login",
+        "en":"Login",
+        "gl":"Login"
+    },
+    "Introduce tu email":{
+        "es":"Introduce tu correo electrónico",
+        "en":"Use your email",
+        "gl":"Introduce o teu correo electrónico"
+    },
+    "Utiliza tu Dni":{
+        "es":"Utiliza tu Dni  ",
+        "en":"Use your identification card",
+        "gl":"Utiliza o teu Dni"
+    },
+    "Cambiar idioma a español":{
+        "es":"",
+        "en":"Change language to Spanish",
+        "gl":"Cambiar o idioma a español"
+    },
+    "":{
+        "es":"",
+        "en":"",
+        "gl":""
+    },
+    "":{
+        "es":"",
+        "en":"",
+        "gl":""
+    }
+
+}

@@ -1,0 +1,835 @@
+{
+    "Comentarios":{
+    "Archivo json":"",
+	"Nombre: traducciones.json":"",
+	"Autor:Noa López Marchante":"",
+	"Fecha de creación: 20/11/2019":"",
+    "Función: Array clave-valor con los strings":""
+    },
+
+
+
+
+    
+    "USUARIOS":{
+        "es":"USUARIOS",
+        "en":"USERS",
+        "gl":"USUARIOS"
+    },
+    "PROFESORES":{
+        "es":"PROFESORES",
+        "en":"TEACHERS",
+        "gl":"PROFESORES"
+    },
+    "EDIFICIOS":{
+        "es":"EDIFICIOS",
+        "en":"BUILDINGS",
+        "gl":"EDIFICIOS"
+    },
+    "CENTROS":{
+        "es":"CENTROS",
+        "en":"CENTERS",
+        "gl":"CENTROS"
+    },
+    "TITULACIONES":{
+        "es":"TITULACIONES",
+        "en":"DEGREES",
+        "gl":"TITULACIÓNS"
+    },
+    "ESPACIOS":{
+        "es":"ESPACIOS",
+        "en":"SPACES",
+        "gl":"ESPAZOS"
+    },
+    "PROFESOR_ESPACIO":{
+        "es":"PROFESOR_ESPACIO",
+        "en":"TEACHER_SPACE",
+        "gl":"PROFESOR_ESPAZO"
+    },
+    "PROFESOR_TITULACION":{
+        "es":"PROFESOR_TITULACIÓN",
+        "en":"TEACHER_DEGREE",
+        "gl":"PROFESOR_TITULACIÓN"
+    },
+    "Hoy es":{
+        "es":"Hoy es ",
+        "en":"Today is ",
+        "gl":"Hoxe é "
+    },
+    "Ejemplo arquitectura IU":{
+        "es":"Ejemplo arquitectura IU",
+        "en":"IU architecture example",
+        "gl":"Exemplo arquitectura IU"
+    },
+    "Gestion de la universidad":{
+        "es":"Gestión de la universidad",
+        "en":"University management",
+        "gl":"Xestión da universidade"
+    },
+    "Portal de Gestion":{
+        "es":"Portal de gestión",
+        "en":"Management website",
+        "gl":"Portal de xestión"
+    },
+    "idioma":{
+        "es":"Idioma",
+        "en":"Languague",
+        "gl":"Idioma"
+    },
+    "Usuarios":{
+        "es":"Usuarios",
+        "en":"Users",
+        "gl":"Usuarios"
+    },
+    "Edificios":{
+        "es":"Edificios",
+        "en":"Buildings",
+        "gl":"Edificos"
+    }, 
+    "Espacios":{
+        "es":"Espacios",
+        "en":"Spaces",
+        "gl":"Espazos"
+    },
+    "Funcionalidades":{
+        "es":"Funcionalidades",
+        "en":"Functionalities",
+        "gl":"Funcionalidades"
+    },
+    "Centros":{
+        "es":"Centros",
+        "en":"Centers",
+        "gl":"Centros"
+    },
+    "Titulacion":{
+        "es":"Titulaciones",
+        "en":"Degrees",
+        "gl":"Titulacións"
+    },
+    "Profesores":{
+        "es":"Profesores",
+        "en":"Teachers",
+        "gl":"Profesores"
+    },
+    "INGLES":{
+        "es":"Inglés",
+        "en":"English",
+        "gl":"Inglés"
+    },
+    "ESPAÑOL":{
+        "es":"Español",
+        "en":"Spanish",
+        "gl":"Español"
+    },
+    "GALLEGO":{
+        "es":"Gallego",
+        "en":"Gallaecian",
+        "gl":"Galego"
+    },
+    "login":{
+        "es":"Usuario",
+        "en":"User",
+        "gl":"Usuario"
+    },
+    "Inicio sesion":{
+        "es":"Inicio sesión",
+        "en":"Login",
+        "gl":"Inicio sesión"
+    },
+    "Autor":{
+        "es":"Autor",
+        "en":"Author",
+        "gl":"Autor"
+    },
+    "Usuario no autenticado":{
+        "es":"Usuario no autenticado",
+        "en":"User not logged",
+        "gl":"Usuario non autenticado"
+    },
+    "Portal de gestion que permite almacenar y consultar informacion":{
+        "es":"Portal de gestión que permite almacenar y consultar información",
+        "en":"Management site that allows storing and consulting information",
+        "gl":"Portal de xestión que permite almacenar e consultar información"
+    },
+    "Completos formularios que permiten almacenar toda la informacion necesaria sobre las entidades":{
+        "es":"Completos formularios que permiten almacenar toda la información necesaria sobre las entidades",
+        "en":"Complete forms that allow you to store all the necessary information about the entities",
+        "gl":"Completos formularios que permiten almacenar toda a información necesaria sobre as entidades"
+    },
+    "Formularios":{
+        "es":"Formularios",
+        "en":"Forms",
+        "gl":"Formularios"
+    },
+    "Entidades":{
+        "es":"Entidades",
+        "en":"Entities",
+        "gl":"Entidades"
+    },
+    "Registrar":{
+        "es":"Registrar",
+        "en":"Register",
+        "gl":"Registrar"
+    },
+    "Login":{
+        "es":"Login",
+        "en":"Login",
+        "gl":"Login"
+    },
+    "Introduce tu email":{
+        "es":"Introduce tu correo electrónico",
+        "en":"Use your email",
+        "gl":"Introduce o teu correo electrónico"
+    },
+    "Utiliza tu Dni":{
+        "es":"Utiliza tu Dni",
+        "en":"Use your identification card",
+        "gl":"Utiliza o teu Dni"
+    },
+    "Cambiar idioma a español":{
+        "es":"Cambiar el idioma a español",
+        "en":"Change language to Spanish",
+        "gl":"Cambiar o idioma a español"
+    },
+    "Cambiar idioma a ingles":{
+        "es":"Cambiar el idioma a inglés",
+        "en":"Change language to English",
+        "gl":"Cambiar o idioma a inglés"
+    },
+    "Cambiar idioma a gallego":{
+        "es":"Cambiar el idioma a gallego",
+        "en":"Change language to Gallaecian",
+        "gl":"Cambiar o idioma a galego"
+    },
+    "Elige una opcion":{
+        "es":"Elige una opción",
+        "en":"Choose an option",
+        "gl":"Escolle unha opción"
+    },
+    "password":{
+        "es":"Contraseña",
+        "en":"Password",
+        "gl":"Contrasinal"
+    },
+    "Letras y numeros":{
+        "es":"Letras y números",
+        "en":"Letters and numbers",
+        "gl":"Letras e números"
+    },
+    "Volver":{
+        "es":"Volver",
+        "en":"Back",
+        "gl":"Volver"
+    },
+    "Registro":{
+        "es":"Registro",
+        "en":"Register",
+        "gl":"Rexistro"
+    },
+    "DNI":{
+        "es":"DNI",
+        "en":"Identification card",
+        "gl":"DNI"
+    },
+    "Nombre":{
+        "es":"Nombre",
+        "en":"Name",
+        "gl":"Nome"
+    },
+    "NOMBREPROFESOR":{
+        "es":"Nombre",
+        "en":"Name",
+        "gl":"Nome"
+    },
+    "APELLIDOSPROFESOR":{
+        "es":"Apellidos",
+        "en":"Surnames",
+        "gl":"Apelidos"
+    },
+    "AREAPROFESOR":{
+        "es":"Área",
+        "en":"Area",
+        "gl":"Área"
+    },
+    "NOMBRETITULACION":{
+        "es":"Nombre",
+        "en":"Name",
+        "gl":"Nome"
+    },
+    "RESPONSABLETITULACION":{
+        "es":"Responsable",
+        "en":"Manager",
+        "gl":"Responsable"
+    },
+    "Solo letras":{
+        "es":"Sólo letras",
+        "en":"Just letters",
+        "gl":"Só letras"
+    },
+    "Apellidos":{
+        "es":"Apellidos",
+        "en":"Surnames",
+        "gl":"Apelidos"
+    },
+    "Telefono":{
+        "es":"Teléfono",
+        "en":"Phone number",
+        "gl":"Teléfono"
+    },
+    "Solo numeros":{
+        "es":"Sólo números",
+        "en":"Just numbers",
+        "gl":"só números"
+    },
+    "email":{
+        "es":"Correo",
+        "en":"Email",
+        "gl":"Correo"
+    },
+    "Fecha de nacimiento":{
+        "es":"Fecha de nacimiento",
+        "en":"Birthday",
+        "gl":"Fecha de nacemento"
+    },
+    "Foto personal":{
+        "es":"Foto personal",
+        "en":"Personal photo",
+        "gl":"Foto persoal"
+    },
+    "Hombre":{
+        "es":"Hombre",
+        "en":"Man",
+        "gl":"Home"
+    },
+    "Mujer":{
+        "es":"Mujer",
+        "en":"Woman",
+        "gl":"Muller"
+    },
+    "sexo":{
+        "es":"Sexo",
+        "en":"Sex",
+        "gl":"Sexo"
+    },
+    "Desconectar":{
+        "es":"Desconectar",
+        "en":"Disconect",
+        "gl":"Desconectar"
+    },
+    "Gestion de profesores":{
+        "es":"Gestión de profesores",
+        "en":"Teacher management",
+        "gl":"Xestión de profesores"
+    },
+    "Gestion de usuarios":{
+        "es":"Gestión de usuarios",
+        "en":"Users management",
+        "gl":"Xestión de usuarios"
+    },
+    "Otro":{
+        "es":"Otro",
+        "en":"Other",
+        "gl":"Outro"
+    },
+    "Añadir":{
+        "es":"Añadir",
+        "en":"Add",
+        "gl":"Engadir"
+    },
+    "Borrar":{
+        "es":"Borrar",
+        "en":"Delete",
+        "gl":"Borrar"
+    },
+    "Editar":{
+        "es":"Editar",
+        "en":"Edit",
+        "gl":"Editar"
+    },
+    "Buscar":{
+        "es":"Buscar",
+        "en":"Search",
+        "gl":"Buscar"
+    },
+    "Informacion detallada":{
+        "es":"Información detallada",
+        "en":"Detailed information",
+        "gl":"Información detallada"
+    },
+    "Informacion titulacion":{
+        "es":"Información titulación",
+        "en":"Degree information",
+        "gl":"Información titulación"
+    },
+    "Informacion espacio":{
+        "es":"Información espacio",
+        "en":"Space information",
+        "gl":"Información espazo"
+    },
+    "Informacion edificio":{
+        "es":"Información edificio",
+        "en":"Building information",
+        "gl":"Información edificio"
+    },
+    "Informacion centro":{
+        "es":"Información centro",
+        "en":"Center information",
+        "gl":"Información centro"
+    },
+    "BIENVENIDO A LA ARQUITECTURA BASE DE IU":{
+        "es":"BIENVENIDO A LA ARQUITECTURA BASE DE IU",
+        "en":"WELCOME TO THE BASE ARCHITECTURE OF IU",
+        "gl":"BENVIDO A ARQUITETURA BASE DE IU"
+    },
+    "area":{
+        "es":"Área",
+        "en":"Area",
+        "gl":"Área"
+    },
+    "departamento":{
+        "es":"Departamento",
+        "en":"Department",
+        "gl":"departamento"
+    },
+    "CODCENTRO":{
+        "es":"Código del centro",
+        "en":"Center code",
+        "gl":"Código do centro"
+    },
+    "CODEDIFICIO":{
+        "es":"Código del edificio",
+        "en":"Building code",
+        "gl":"código do edificio"
+    },
+    "direccion":{
+        "es":"Dirección",
+        "en":"Address",
+        "gl":"Dirección"
+    },
+    "responsable":{
+        "es":"Responsable",
+        "en":"Manager",
+        "gl":"Responsable"
+    },
+    "Gestion de centros":{
+        "es":"Gestión de centros",
+        "en":"Center management",
+        "gl":"Xestión de centros"
+    },
+    "Gestion de edificios":{
+        "es":"Gestión de edificios",
+        "en":"Building management",
+        "gl":"Xestión de edificios"
+    },
+    "campus":{
+        "es":"campus",
+        "en":"campus",
+        "gl":"campus"
+    },
+    "CODESPACIO":{
+        "es":"Código de espacio",
+        "en":"Space code",
+        "gl":"Código do espazo"
+    },
+    "TIPO":{
+        "es":"Tipo",
+        "en":"Type",
+        "gl":"Tipo"
+    },
+    "superficieEspacio":{
+        "es":"Superficie del espacio",
+        "en":"Space surface",
+        "gl":"Superficie do espazo"
+    },
+    "despacho":{
+        "es":"Despacho",
+        "en":"Office",
+        "gl":"Despacho"
+    },
+    "laboratorio":{
+        "es":"Laboratorio",
+        "en":"Laboratory",
+        "gl":"Laboratorio"
+    },
+    "pas":{
+        "es":"PAS",
+        "en":"PAS",
+        "gl":"PAS"
+    },
+    "Gestion de espacios":{
+        "es":"Gestión de espacios",
+        "en":"Space management",
+        "gl":"Xestión de espazos"
+    },
+    "numInventarioEspacio":{
+        "es":"Número del inventario",
+        "en":"Inventory number",
+        "gl":"Número do inventario"
+    },
+    "NOMBRECENTRO":{
+        "es":"Nombre del centro",
+        "en":"Center name",
+        "gl":"Nome do centro"
+    },
+    "DIRECCIONCENTRO":{
+        "es":"Dirección del centro",
+        "en":"Center address",
+        "gl":"Dirección do centro"
+    },
+    "Informacion profesor":{
+        "es":"Información profesor",
+        "en":"Teacher information",
+        "gl":"Información profesor"
+    },
+    "Informacion usuario":{
+        "es":"Información usuario",
+        "en":"User information",
+        "gl":"Información usuario"
+    },
+    "Informacion prof_titulacion":{
+        "es":"Información profesor_titulación",
+        "en":"Teacher_Degree information",
+        "gl":"Información profesor_titulación"
+    },
+    "Informacion prof_espacio":{
+        "es":"Información profesor_espacio",
+        "en":"Teacher_Space information",
+        "gl":"Información profesor_espacio"
+    },
+    "NOMBREEDIFICIO":{
+        "es":"Nombre del edificio",
+        "en":"Building name",
+        "gl":"Nome do edificio"
+    },
+    "CAMPUSEDIFICIO":{
+        "es":"Campus del edificio",
+        "en":"Building campus",
+        "gl":"Campus do edificio"
+    },
+    "CODTITULACION":{
+        "es":"Código de la titulación",
+        "en":"Degree code",
+        "gl":"Código da titulación"
+    },
+    "Gestion de titulaciones":{
+        "es":"Gestión de titulaciones",
+        "en":"Degrees management",
+        "gl":"Xestión de titulacións"
+    },
+    "Gestion de prof_espacio":{
+        "es":"Gestión de profesor_espacio",
+        "en":"Teacher-Space management",
+        "gl":"Xestión de profesores_espazos"
+    },
+    "anhoAcademico":{
+        "es":"Año académico",
+        "en":"Academic year",
+        "gl":"Ano académico"
+    },
+    "Gestion de prof_titulacion":{
+        "es":"Gestión de profesor_titulación",
+        "en":"Teacher-Degree management",
+        "gl":"Xestión de profesores_titulacións"
+    },
+    "imagen":{
+        "es":"imagen",
+        "en":"image",
+        "gl":"imaxe"
+    },
+    "Error":{
+        "es":"Error",
+        "en":"Error",
+        "gl":"Erro"
+    },
+    "Error en login:":{
+        "es": "Error en login: ",
+        "en": "Login error: ",
+        "gl": "Error no login:"
+    },
+    "Error en nombre: longitud menor que 3":{
+        "es": "Error en nombre: longitud menor que 3",
+        "en": "Name error: length less than 3",
+        "gl": "Error en nombre: longitud menor que 3"
+    },
+    "Error en nombre: longitud mayor de 30":{
+        "es": "Error en nombre: longitud mayor de 30",
+        "en": "Name error: length greater than 30",
+        "gl": "Error no nombre: lonxitude maior que 30"
+    },
+    "Error en nombre: Solo se admiten alfabéticos":{
+        "es": "Error en nombre: Solo se admiten alfabéticos",
+        "en": "Name error: just alphabetics",
+        "gl": "Error no nome: Só se admiten alfabéticos"
+    },
+    "Error de gestor de base de datos":{
+        "es": "Error de gestor de base de datos",
+        "en": "Database Manager Error",
+        "gl": "Error do xestor de base de datos"
+    },
+    "Inserción fallida: el elemento ya existe":{
+        "es": "Inserción fallida: el elemento ya existe",
+        "en": "Insertion failed: item already exists",
+        "gl": "Inserción falida: o elemento xa existe"
+    },
+    "Inserción realizada con éxito":{
+        "es":"Inserción realizada con éxito",
+        "en":"Succesfull insert",
+        "gl": "Inserción realizada con éxito"
+    },
+    "Borrado realizado con éxito":{
+        "es": "Borrado realizado con éxito",
+        "en": "Deletion was succesfull",
+        "gl": "Borrado realizado con éxito"
+    },
+    "Actualización realizada con éxito":{
+        "es": "Actualización realizada con éxito",
+        "en": "Update was succesfull",
+        "gl": "Actualización realizada con éxito"
+    },
+    "El login no existe":{
+        "es": "El login no existe",
+        "en": "The login doesn´t exists",
+        "gl": "O login non existe"
+    },
+    "La password para este usuario no es correcta":{
+        "es": "La password para este usuario no es correcta",
+        "en": "Incorrect password for this login",
+        "gl": "O contrasinal para este usuario no é correcto"
+    },
+    "El usuario ya existe":{
+        "es": "El usuario ya existe",
+        "en": "User exists",
+        "gl": "O usuario xa existe"
+    },
+    "Error en la inserción":{
+        "es": "Error en la inserción",
+        "en": "Insertion error",
+        "gl": "Error na inserción"
+    },
+    "Borrado no permitido: Hay espacios asignados a este centro":{
+        "es": "Borrado no permitido: Hay espacios asignados a este centro",
+        "en": "Deletion not allowed: There are spaces assigned to this center",
+        "gl": "Borrado non permitido: Hai espazos asignados a este centro"
+    },
+    "Borrado no permitido: Hay titulaciones asignadas a este centro":{
+        "es": "Borrado no permitido: Hay titulaciones asignadas a este centro",
+        "en": "Deletion not allowed: There are degrees assigned to this center",
+        "gl": "Borrado non permitido: Hai titulacións asignadas a este centro"
+    },
+    "Los datos no pueden estar vacios":{
+        "es": "Los datos no pueden estar vacíos",
+        "en": "The data can´t be empty",
+        "gl": "Os datos non poden estar baleiros"
+    },
+    "El edificio no existe":{
+        "es": "El edificio no existe",
+        "en": "The building doesn´t exist",
+        "gl": "O edificio non existe"
+    },
+    "Borrado no permitido: Hay centros asignados a este edificio":{
+        "es": "Borrado no permitido: Hay centros asignados a este edificio",
+        "en": "Deletion not allowed: There are centers to this building",
+        "gl": "Borrado non permitido: Hai centros asignados a este edificio"
+    },
+    "Borrado no permitido: Hay espacios asignados a este edificio":{
+        "es": "Borrado no permitido: Hay espacios asignados a este edificio",
+        "en": "Deletion not allowed: There are spaces to this building",
+        "gl": "Borrado non permitido: Hai espazos asignados a este edificio"
+    },
+    "El centro no existe":{
+        "es": "El centro no existe",
+        "en": "The center doesn´t exist",
+        "gl": "O centro non existe"
+    },
+    "Borrado no permitido: Hay profesores asignados a este espacio":{
+        "es": "Borrado no permitido: Hay profesores asignados a este espacio",
+        "en": "Deletion not allowed: There are teachers assigned to this space",
+        "gl": "Borrado non permitido: Hai profesores asignados a este espacio"
+    },
+    "El profesor no existe":{
+        "es": "El profesor no existe",
+        "en": "The teacher doesn´t exist",
+        "gl": "O profesor non existe"
+    },
+    "El espacio no existe":{
+        "es": "El espacio no existe",
+        "en": "This space doesn´t exist",
+        "gl": "O espazo non existe"
+    },
+    "La titulacion no existe":{
+        "es": "La titulación no existe",
+        "en": "The degree doesn´t exist",
+        "gl": "A titulación non existe"
+    },
+    "Borrado no permitido: Hay un espacio asignado a este profesor":{
+        "es": "Borrado no permitido: Hay un espacio asignado a este profesor",
+        "en": "Deletion not allowed: There are spaces assigned to this teacher",
+        "gl": "Borrado non permitido: Hai un espazo asignado a este profesor"
+    },
+    "Borrado no permitido: Hay un titulo asignado a este profesor":{
+        "es": "Borrado no permitido: Hay un título asignado a este profesor",
+        "en": "Deletion not allowed: There are degrees assigned to this teacher",
+        "gl": "Borrado non permitido: Hai un título asignado a este profesor"
+    },
+    "Borrado no permitido: Hay profesores asignados a esta titulacion":{
+        "es": "Borrado no permitido: Hay profesores asignados a esta titulación",
+        "en": "Deletion not allowed: There are teachers assigned to this degree",
+        "gl": "Borrado non permitido: Hai profesores asignados a esta titulación"
+    },
+    "El campo excede el numero de caracteres permitido":{
+        "es": "El campo excede el número de caracteres permitido",
+        "en": "The field exceeds the number of characters allowed",
+        "gl": "O campo excede o número de caracteres permitido"
+    },
+    "El campo no puede estar vacio":{
+        "es": "El campo no puede estar vacío",
+        "en": "The field cannot be empty",
+        "gl": "O campo non pode estar baleiro"
+    },
+    "El numero debe ser mayor":{
+        "es": "El número debe ser mayor",
+        "en": "The number must be bigger",
+        "gl": "O número debe ser maior"
+    },
+    "El numero debe ser menor":{
+        "es": "El número debe ser menor",
+        "en": "The number must be smaller",
+        "gl": "O número debe ser menor"
+    },
+    "Formato incorrecto":{
+        "es": "Formato incorrecto",
+        "en": "Incorrect format",
+        "gl": "Formato incorrecto"
+    },
+    "El campo no puede tener mas decimales de":{
+        "es": "El campo no puede tener más decimales de",
+        "en": "The field can't have more decimals of",
+        "gl": "O campo non pode ter mais decimales de"
+    },
+    "El campo tiene un formato erroneo, la letra del NIF no se corresponde":{
+        "es": "El campo tiene un formato erróneo, la letra del NIF no se corresponde",
+        "en": "The field has an erroneous format, the letter of the NIF does not correspond",
+        "gl": "O campo ten un formato erróneo, a letra do NIF non se corresponde"
+    },
+    "El campo contiene algun caracter no valido":{
+        "es": "El campo contiene algún caracter no válido",
+        "en": "The field contains some invalid character",
+        "gl": "O campo conten algÚn caracter non válido"
+    },
+    "Alerta":{
+        "es":"Alerta",
+        "en":"Alert",
+        "gl":"Alerta"
+    },
+    "Solo se permiten letras":{
+        "es": "Solo se permiten letras",
+        "en": "Only letters are allowed",
+        "gl": "Só se permiten letras"
+    },
+    "El campo debe ser un numero entero":{
+        "es": "El campo debe ser un número entero",
+        "en": "The field must be an integer",
+        "gl": "O campo debe ser un número enteiro"
+    },
+    "Debe ser mayor de":{
+        "es": "Debe ser mayor de",
+        "en": "It must be greater than",
+        "gl": "Debe ser maior de"
+    },
+    "Debe ser menor de":{
+        "es": "Debe ser menor de",
+        "en": "It must be greater than",
+        "gl": "Debe ser menor de"
+    },
+    "El campo debe ser un numero real":{
+        "es": "El campo debe ser un número real",
+        "en": "The field must be a real number",
+        "gl": "O campo debe ser un número real"
+    },
+    "El numero de decimales debe ser inferior a":{
+        "es": "El número de decimales debe ser inferior a",
+        "en": "The number of decimals must be less than",
+        "gl": "O número de decimales debe ser inferior a"
+    },
+    "La letra del NIF no se corresponde":{
+        "es": "La letra del NIF no se corresponde",
+        "en": "The letter of the NIF does not correspond",
+        "gl": "A letra do NIF non se corresponde"
+    },
+    "No se permite esta extension":{
+        "es": "No se permite esta extensión",
+        "en": "This extension is not allowed",
+        "gl": "Non se permite esta extensión"
+    },
+    "Tamaño o extension de la foto incorrecta o ya existe":{
+        "es": "Tamaño o extensión de la foto incorrecta o ya existe",
+        "en": "Incorrect photo size or extension or already exists",
+        "gl": "Tamaño ou extensión da foto incorrecta ou xa existe"
+    },
+    
+    "Solo se permiten alfabéticos":{
+        "es":"Solo se permiten alfabéticos",
+        "en":"Only alphabetic characters allowed",
+        "gl":"Só se permiten alfabéticos"
+    },
+    "Valor de atributo no numérico demasiado corto":{
+        "es":"Valor de atributo no numérico demasiado corto",
+        "en":"Non numeric field is too short",
+        "gl":"Valor do atibuto non numérico demasiado corto"
+    },
+    "Valor de atributo demasiado largo":{
+        "es":"Valor de atributo demasiado largo",
+        "en":"Field is too large",
+        "gl":"Valor do atributo demasiado largo"
+    },
+    "Solo están permitidas alfabéticos":{
+        "es":"Solo están permitidas alfabéticos",
+        "en":"Only alphabetic characters allowed",
+        "gl":"Só se permiten alfabéticos"
+    },
+    "Atributo vacío":{
+        "es":"Atributo vacío",
+        "en":"Empty field",
+        "gl":"Atributo vacío"
+    },
+    "Formato dni erróneo":{
+        "es":"Formato dni erróneo",
+        "en":"Bad dni format",
+        "gl":"Formato dni erróneo"
+    },
+    "Dni no válido":{
+        "es":"Dni no válido",
+        "en":"Dni not allowed",
+        "gl":"Dni non válido"
+    },
+    "Valor de atributo numérico demasiado corto":{
+        "es":"Valor de atributo numérico demasiado corto",
+        "en":"Numeric field value is too short",
+        "gl":"Valor do atributo numérico demasiado corto"
+    },
+    "Solo se permiten números":{
+        "es":"Solo se permiten números",
+        "en":"Only numeric allowed",
+        "gl":"Só se permiten números"
+    },
+    "Password demasiado larga":{
+        "es":"Password demasiado larga",
+        "en":"Password is too large",
+        "gl":"Contrasinal demasiado larga"
+    },
+    "Teléfono no válido":{
+        "es":"Teléfono no válido",
+        "en":"Phone number not allowed",
+        "gl":"Teléfono non válido"
+    },
+    "Formato email erroneo":{
+        "es":"Formato email erróneo",
+        "en":"Email format not allowed",
+        "gl":"Formato do email erróneo"
+    },
+    "Formato fecha erróneo":{
+        "es":"Formato fecha erróneo",
+        "en":"Date format not allowed",
+        "gl":"Formato da data erróneo"
+    }
+}
