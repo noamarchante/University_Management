@@ -2,7 +2,7 @@
 
 The project was developed in the subject "Interfaces de Usuario" in the 
 Computer Engineering Degree of the University of Vigo in 
-the academic year 2017/2018.
+the academic year 2019/2020.
 
 ## Description 📄
 
